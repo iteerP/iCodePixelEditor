@@ -1,23 +1,21 @@
-Minecraft Mob Pixel Editor
+# Minecraft Mob Pixel Editor
+
 A Python-based pixel art editor for creating 8x8 Minecraft mob sprites using Pygame. This tool allows you to create pixel art representations of various Minecraft mobs with their authentic color palettes.
-Features
 
-8x8 Pixel Grid: Perfect for creating classic Minecraft mob sprites
-Pre-defined Color Palettes: Authentic Minecraft mob colors for:
+## Features
 
-Creeper (green tones)
-Enderman (dark with purple eyes)
-Skeleton (grayscale tones)
-Zombie (various green flesh tones)
+- **8x8 Pixel Grid**: Perfect for creating classic Minecraft mob sprites
+- **Pre-defined Color Palettes**: Authentic Minecraft mob colors for:
+  - Creeper (green tones)
+  - Enderman (dark with purple eyes)
+  - Skeleton (grayscale tones)
+  - Zombie (various green flesh tones)
+- **Image Export**: Save your creations as PNG files
 
+## Requirements
 
-Interactive Display: Real-time visualization of your pixel art
-Image Export: Save your creations as PNG files
-
-Requirements
-
-Python 3.x
-Pygame library
+- Python 3.x
+- Pygame library
 
 ## Installation
 
